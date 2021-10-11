@@ -1,0 +1,24 @@
+{
+	"name": "prettier",
+	"version": "1.0.0",
+	"description": "My personal prettier config",
+	"main": "index.json",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/elfensky/prettier.git"
+	},
+	"keywords": [
+		"prettier",
+		"linting",
+		"vscode"
+	],
+	"author": "Andrei Lavrenov <andrei@lavrenov.io> (https://lavrenov.io/)",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/elfensky/prettier/issues"
+	},
+	"homepage": "https://github.com/elfensky/prettier#readme"
+}
